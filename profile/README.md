@@ -1,12 +1,12 @@
 # Welcome to **Dominic Studios**! 👾🎮
 
-Welcome to **Dominic Studios**, where **creativity** meets **technology**! 🚀 We are a team of passionate developers, researchers, and creators constantly pushing the boundaries in **AI**, **mobile development**, **game development**, and **web applications**. Whether it's cutting-edge **AI** models or sleek **mobile apps**, we've got it all covered here.
+Welcome to **Dominic Studios**, where **creativity** meets **technology**! 🚀 I'm a passionate developers, researchers, and creator constantly pushing the boundaries in **AI**, **mobile development**, **game development**, and **web applications**. Whether it's cutting-edge **AI** models or sleek **mobile apps**, I've got it all covered here.
 
-## 🌟 Our Top Projects
+## 🌟 My Top Projects
 
 ### 🤖 **AI & Machine Learning**
 
-We believe in the power of **AI** to transform the world. Check out our top AI projects that blend **innovation** with **technology**.
+I believe in the power of **AI** to transform the world. Check out my top AI projects that blend **innovation** with **technology**.
 
 #### 1. **LLM-RAG-Chatbot-AI-Module-MultiTenant-Architecture**
    - A next-gen **AI-powered chatbot** solution that uses **Retrieval-Augmented Generation (RAG)**. Built for **multi-tenancy**, it offers flexible, scalable, and powerful chatbot solutions.
@@ -30,7 +30,7 @@ We believe in the power of **AI** to transform the world. Check out our top AI p
 
 ### 📱 **Mobile Development**
 
-At **Dominic Studios**, we don’t just develop apps—we create **experiences**. Check out our best mobile projects that are changing the way people interact on their phones.
+I don’t just develop apps—I create **experiences**. Check out my best mobile projects that are changing the way people interact on their phones.
 
 #### 1. **WorkWise-FreeLancing-Application-Using-Kotlin**
    - A **freelancing app** built with **Kotlin**, connecting freelancers and clients for easy collaboration and task management. Perfect for the modern gig economy.
@@ -42,7 +42,7 @@ At **Dominic Studios**, we don’t just develop apps—we create **experiences**
 
 ### 🕹️ **Game Development**
 
-We bring fun to life through code. Our game projects are not just about playing—they’re about pushing the boundaries of what games can do.
+I bring fun to life through code. my game projects are not just about playing—they’re about pushing the boundaries of what games can do.
 
 #### 1. **BrickBreaker-Using-Assembly**
    - A nostalgic **Brick Breaker** game built using **Assembly**! Relive the classic game with a fresh twist of low-level coding skills.
@@ -54,7 +54,7 @@ We bring fun to life through code. Our game projects are not just about playing�
 
 ### 🌐 **Full-Stack Web & Other Projects**
 
-We don’t just build websites; we create **ecosystems**. Explore our full-stack applications that combine front-end finesse with back-end power.
+I don’t just build websites; I create **ecosystems**. Explore our full-stack applications that combine front-end finesse with back-end power.
 
 #### 1. **Student-Portal-Using-WindowsForm**
    - A comprehensive **Student Portal** built with **C#** and **Windows Forms**, making **student data management** a breeze.
@@ -67,7 +67,7 @@ We don’t just build websites; we create **ecosystems**. Explore our full-stack
 
 ---
 
-## 🛠️ **Technologies We Love**
+## 🛠️ **Technologies I Love**
 
 - **Languages:** C++, Python, Java, Kotlin, Go, Assembly, C#
 - **Frameworks & Tools:** **TensorFlow**, **PyTorch**, **Flask**, **Django**, **OpenCV**, **SFML**, **Jupyter Notebook**
@@ -78,11 +78,11 @@ We don’t just build websites; we create **ecosystems**. Explore our full-stack
 
 ## 👨‍💻 Why Dominic Studios?
 
-At **Dominic Studios**, we are constantly learning, adapting, and creating groundbreaking solutions to make the world a better place. Whether you’re into AI, mobile development, game development, or full-stack web applications, we have something to spark your interest.
+At **Dominic Studios**, I am constantly learning, adapting, and creating groundbreaking solutions to make the world a better place. Whether you’re into AI, mobile development, game development, or full-stack web applications, I have something to spark your interest.
 
-💡 **Stay ahead of the curve** with our innovative projects and explore the intersection of **technology** and **creativity**. Join us in our journey to create the future!
+💡 **Stay ahead of the curve** with my innovative projects and explore the intersection of **technology** and **creativity**. Join me in my journey to create the future!
 
-Feel free to explore the repositories, contribute, or just say hello! We’re always excited to collaborate and share knowledge. 🚀
+Feel free to explore the repositories, contribute, or just say hello! i'm always excited to collaborate and share knowledge. 🚀
 
 ---
 
